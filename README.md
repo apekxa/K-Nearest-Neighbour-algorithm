@@ -1,1 +1,1 @@
-# K-Nearest-Neighbour-algorithm-
+# K-Nearest-Neighbour-algorithm
